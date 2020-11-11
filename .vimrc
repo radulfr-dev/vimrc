@@ -213,7 +213,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'szw/vim-maximizer'
 call plug#end()
 
-colorscheme dracula
+colorscheme gruvbox
 set background=dark
 
 if executable('rg')
